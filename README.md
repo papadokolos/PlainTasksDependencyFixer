@@ -2,7 +2,7 @@
 
 By installing this package, PlainTasks is able to import dateutil as expected (see Note below).
 
-# Note:
+# Note
 
 Given that you use the new Package Control channel (https://packages.sublimetext.io/channel.json) instead of the default one. See: https://packages.sublimetext.io/about. This is because the default channel doesn't support dateutil's latest release tag `2.9.0.post0` which adds back Python 3.3 support.
 
