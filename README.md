@@ -4,6 +4,7 @@ By installing this package, PlainTasks is able to import dateutil as expected (s
 
 # Install
 
+0.  Use the new Package Control channel instead of the default one (see Note below): https://packages.sublimetext.io/channel.json
 1.  Open command prompt
 2.  Package Control: Add Repository
 3.  Paste "<https://github.com/papadokolos/PlainTasksDependencyFixer>"
