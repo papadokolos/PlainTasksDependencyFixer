@@ -1,6 +1,6 @@
 # Introduction
 
-By installing this package, PlainTasks is able to import dateutil as expected (see Note below).
+By installing this package, PlainTasks is able to import dateutil as expected.
 
 # Install
 
