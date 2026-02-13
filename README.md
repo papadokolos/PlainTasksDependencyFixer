@@ -2,6 +2,18 @@
 
 By installing this package, PlainTasks is able to import dateutil as expected (see Note below).
 
+# Install
+
+1.  Open command prompt
+2.  Package Control: Add Repository
+3.  Paste "<https://github.com/papadokolos/PlainTasksDependencyFixer>"
+4.  Enter
+5.  Open command prompt again
+6.  Package Control: Install Package
+7.  Choose "PlainTasksDependencyFixer"
+8.  Restart Sublime Text
+
+
 # Note
 
 Given that you use the new Package Control channel (https://packages.sublimetext.io/channel.json) instead of the default one. See: https://packages.sublimetext.io/about. This is because the default channel doesn't support dateutil's latest release tag `2.9.0.post0` which adds back Python 3.3 support.
